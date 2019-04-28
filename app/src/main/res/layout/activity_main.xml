@@ -28,4 +28,9 @@
             android:layout_height="wrap_content"
             android:text="task2 commit 1"/>
 
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="task2 commit 2"/>
+
 </LinearLayout>
